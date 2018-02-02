@@ -1,0 +1,3 @@
+Taskmaker Color Art:
+	PICT format
+	Look for 00 11 02 ff 0c 00 at offset 522
